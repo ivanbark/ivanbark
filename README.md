@@ -60,4 +60,4 @@ I'm a developer passionate about building web applications and backend systems. 
 
 ---
 
-> *“navigating the digital realm, one line of code at a time”*
+> *“Full-stack oplossingen voor moderne webapplicaties”*
