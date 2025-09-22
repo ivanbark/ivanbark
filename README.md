@@ -27,6 +27,8 @@ I'm a developer passionate about building web applications and backend systems. 
 - **Event Planning Webapp**  
   Laravel + Vue group management, chat, and event scheduling with RSVP and collaborative date proposals
 
+> For more project look at my [portfolio](https://ivanbark.nl)
+
 ---
 
 ### 🔭 Interests
